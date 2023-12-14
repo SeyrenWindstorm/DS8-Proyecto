@@ -1,0 +1,12 @@
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\bin\Debug\Proyecto 1 DS8.exe.config
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\bin\Debug\Proyecto 1 DS8.exe
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\bin\Debug\Proyecto 1 DS8.pdb
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\bin\Debug\Proyecto 1 DS8.xml
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto 1 DS8.vbproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto_1_DS8.Form1.resources
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto_1_DS8.Resources.resources
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto 1 DS8.vbproj.GenerateResource.cache
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto 1 DS8.vbproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto 1 DS8.exe
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto 1 DS8.xml
+C:\Users\manue\source\repos\Proyecto 1 DS8\Proyecto 1 DS8\obj\Debug\Proyecto 1 DS8.pdb
